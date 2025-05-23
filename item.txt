@@ -1,0 +1,1005 @@
+101101:剪刀:Scissors
+101102:钢笔:Fountain Pen
+101104:菜刀:Kitchen Knife
+101201:军刀:Army Knife
+101202:手术刀:Scalpel
+101203:Jamadhar :Jamadhar 
+101301:玫瑰刀:Rose Knife
+101302:瑞士军刀:Swiss Army Knife
+101303:印度拳刃:Carapace Katar
+101401:亚瑟王的短剑:Carnwennan
+101402:破山剑:Mount Slicer
+101404:共振匕首:Vibroblade
+101405:佛拉格拉克:Fragarach
+101406:大马士革·索恩:Damascus Steel Thorn
+101407:摩诃罗阇:Maharaja
+101408:高地德克短剑:Highlander Dirk
+101501:月蚀:Eclipse
+101502:噬灵短剑:Soul Reaper
+101503:绯色短剑:Scarlet Dagger
+101504:恶意:Malice
+101701:绯色短剑 - 绯红:Scarlet Dagger - Crimson
+101702:绯色短剑 - 晓色:Scarlet Dagger - Dawn
+102101:铁锈剑:Rusty Sword
+102201:长剑:Long Sword
+102301:武士刀:Katana
+102401:Masamune:Masamune
+102402:妖刀村正:Muramasa
+102403:重剑:Bastard Sword
+102404:宝剑:Jewel Sword
+102405:顺天剑:Thuận Thiên
+102406:阿隆戴特:Arondight
+102407:断钢圣剑:Excalibur
+102408:等离子剑:Plasma Sword
+102409:破灭之枝:Laevateinn
+102410:物干焯:Monohoshizao
+102411:天卫之剑:Hovud
+102412:极光长剑:Aurora Longsword
+102413:奥术光刀:Arcane Edge
+102501:噬血魔剑:Dáinsleif
+102502:极冰之剑:Almas
+102503:冥王剑:Chained Nightmare
+102701:噬血魔剑 - 绯红:Dáinsleif - Crimson
+102702:噬血魔剑 - 晓色:Dáinsleif - Dawn
+103201:双刀:Twin Blades
+103202:粗劣的双剑:Wrought Swords
+103301:佛罗伦萨:Florentine
+103302:双匕首:Pocket Aces
+103401:二天一流:Divine Dual Swords
+103402:雌雄双股剑:Starsteel Twin Swords
+103403:阿修罗:Asura
+103404:黑蝶:Black Butterfly
+103501:狄奥斯库洛伊:Dioscuri
+103502:罗伊格尔＆扎尔:Lloigor & Zahr
+103503:阴阳双刃:Spring and Autumn
+103504:幻影刀:Phantom Blade
+103505:塔纳托斯:Thanatos
+103701:幻影刀 - 绯红:Phantom Blade - Crimson
+103702:幻影刀 - 晓色:Phantom Blade - Dawn
+104101:锤子:Hammer
+104201:战锤:Warhammer
+104301:钉头锤:Morning Star
+104302:黑鹿锤:Black Stag Hammer
+104303:命运之锤:Forged Destiny
+104401:狼牙棒:Fang Mace
+104402:达格达的大釜:Hammer of Dagda
+104403:雷神之锤:Hammer of Thor
+104404:夜神星锤:Evening Star
+104405:魔法棒:Magic Stick
+104406:千斤锤:Weight of the World
+104407:金刚杵:Vajra
+104408:八卦佛杖:Pakua Chang
+104409:知识之锤:Bookmaster
+104501:和平暗使:Peacebringer
+104502:天星锤:Squeaky Hammer
+104503:末日:Doomsday
+104504:利维坦:Leviathan
+104701:和平暗使 - 绯红:Peacebringer - Crimson
+104702:和平暗使 - 晓色:Peacebringer - Dawn
+105102:十字镐:Pickaxe
+105103:短柄斧:Hatchet
+105201:锁镰:Chain Scythe
+105202:战斧:Battle Axe
+105301:轻量化斧头:Light Hatchet
+105302:死神镰刀:Reaper's Scythe
+105401:大斧:Gigantic Axe
+105402:激光刃斧:Beam Axe
+105403:死亡圣神之镰:Santa Muerte
+105404:大镰刀:Scythe
+105405:罗摩斧:Parashu
+105406:赫帕尔:Harpe
+105407:战坦克:The Juggernaut
+105408:盘古斧:Axe of Pangu
+105501:天堂之镰:Paradise Lost
+105502:血色之镰:Scarlet Scythe
+105503:蓝狮:Nephleon
+105701:血色之镰 - 绯红:Scarlet Scythe - Crimson
+105702:血色之镰 - 晓色:Scarlet Scythe - Dawn
+107101:短矛:Short Spear
+107201:竹矛:Bamboo Spear
+107301:双叉戟:Bident
+107302:矛:Pike
+107303:斧枪:Halberd
+107401:钢枪:Sharpened Spear
+107402:涯角枪:Gentian Silver Gun
+107403:丈八蛇矛:Eighteen Foot Spear
+107404:宇宙双叉戟:Cosmic Bident
+107405:波赛顿之戟:Lance of Poseidon
+107406:火尖枪:Blazing Lance
+107407:方天画戟:Fangtian Huaji
+107408:青龙偃月刀:Dragon Guandao
+107501:朗基努斯之枪:Spear of Longinus
+107502:猎星者:Star Hunter
+107701:朗基努斯之枪 - 绯红:Spear of Longinus - Crimson
+107702:朗基努斯之枪 - 晓色:Spear of Longinus - Dawn
+108101:树枝:Branch
+108102:短棍:Short Rod
+108103:竹:Bamboo
+108202:长棍:Long Rod
+108301:金砕棒:Goblin Bat
+108401:雨伞:Umbrella
+108402:火炬:Torch
+108403:救世女神像:Statue of Soteria
+108404:打狗棒:Mallet
+108405:铁管:Iron Pipe
+108501:特工伞:Spy Umbrella
+108502:如意金箍棒:Monkey King Bar
+108503:鬼手棍:Ghost Hand
+108504:心之杖:Rod of Heart
+108505:秃鹫之眼:Vulture's Eye
+108701:心之杖 - 绯红:Rod of Heart - Crimson
+108702:心之杖 - 晓色:Rod of Heart - Dawn
+109101:鞭子:Whip
+109201:套环:Rope Cuffs
+109202:铁鞭:Bullwhip
+109301:风之鞭:Wind Whip
+109401:雷龙鞭:Thunder Whip
+109402:霹雳鞭:Lightning Whip
+109403:格莱普尼尔:Gleipnir
+109404:等离子鞭:Plasma Whip
+109405:负极离子鞭:Cathode Lash
+109406:乌拉诺斯:Ouranos
+109501:血花九节鞭:Bloody Nine Tails
+109502:蛇腹剑:Sword of Scales
+109701:血花九节鞭 - 绯红:Bloody Nine Tails - Crimson
+109702:血花九节鞭 - 晓色:Bloody Nine Tails - Dawn
+110101:Brass Knuckles:Brass Knuckles
+110102:劳工手套:Cotton Gloves
+110201:皮手套:Leather Gloves
+110202:铁指虎:Iron Knuckles
+110301:金属手套:Gauntlet
+110302:羽翼指虎:Wing Knuckles
+110401:龟甲护手:Bone Gauntlet
+110402:爆裂护手:Shatter Shell Gauntlet
+110403:Glass Knuckles:Glass Knuckles
+110404:涅槃护手:Phoenix Gloves
+110405:寸拳:One Inch Punch
+110406:圣拳:Divine Fist
+110407:血翼指虎:Bloodwing Knuckles
+110408:霜瓣玉手:Frost Petal Hand
+110409:如来神掌:Buddha's Palm
+110410:巴西拳套:Brasil Gauntlet
+110411:赤手空拳:White Claw Punch
+110412:天蚕手套:Imperial Silk Gloves
+110501:朱雀之纹:Mark of the Phoenix
+110502:冻土传说:Permafrost
+110503:血手:Bloody Hand
+110504:雷霆之握:Iron Fist
+110701:血手 - 绯红:Bloody Hand - Crimson
+110702:血手 - 晓色:Bloody Hand - Dawn
+111201:旋棍:Wooden Tonfa
+111301:警棍:Police Baton
+111401:琉球旋棍:Ryukyu Tonfa
+111402:战术旋棍:Tactical Tonfa
+111403:泰式拳法:Mai Sok
+111404:等离子旋棍:Plasma Tonfa
+111405:风行者:Windrunner
+111406:皮质拐:Holster Tonfa
+111501:黑曜石双钗:Obsidian Jitte
+111502:万年寒波:Frozen Echo
+111503:刀刃旋棍:Blade Tonfa
+111504:螳螂旋棍:Mantis Tonfa
+111701:刀刃旋棍 - 绯红:Blade Tonfa - Crimson
+111702:刀刃旋棍 - 晓色:Blade Tonfa - Dawn
+112101:石头:Stone
+112103:钢珠:Iron Ball
+112104:玻璃瓶:Glass Bottle
+112105:棒球:Baseball
+112202:手榴弹:Grenade
+112203:Molotov Cocktail:Molotov Cocktail
+112204:吊索:Sling
+112205:签名球:Autographed Baseball
+112301:粉尘弹:Flour Bomb
+112302:燃烧弹:Incendiary Bomb
+112303:闪电球:Ball Lightning
+112304:胶球:Flubber
+112305:High Explosive Grenade:High Explosive Grenade
+112306:罗马重标枪:Pilum
+112401:大卫的弹弓:David's Sling
+112402:烟雾弹:Smoke Bomb
+112403:尖刺弹力球:Spiky Bouncy Ball
+112404:安提奥克的手榴弹:Grenade of Antioch
+112405:火球:Fireball
+112406:魔导棱镜:Dyadic Prism
+112407:阿斯特拉普:Astrapē
+112408:粘性炸弹:Sticky Bomb
+112501:钌珠:Ruthenium Marble
+112502:如意珠:Imugi's Pearl
+112503:追猎者:Chaser
+112701:追猎者 - 绯红:Chaser - Crimson
+112702:追猎者 - 晓色:Chaser - Dawn
+113101:剃刀:Razor
+113102:扑克牌:Playing Cards
+113104:粉笔:Chalk
+113201:飞镖:Dart
+113202:符咒:Charm
+113203:复古扑克:Vintage Cards
+113205:流星镖:Throwing Stars
+113206:玛瑙飞刀:Onyx Dagger
+113207:Apricot Flower Tag:Apricot Flower Tag
+113301:轮刃:Chakram
+113302:柳叶飞刀:Willow Leaf Spike
+113401:疯子国王的卡片:Cards of Tyranny
+113402:Venom Dart:Venom Dart
+113403:Dharma Chakram:Dharma Chakram
+113404:普拉巴塔标枪:Plumbata
+113405:翡翠秘符:Mystic Jade Charm
+113406:风魔手里剑:Fuhma Shuriken
+113408:冰魄银针:Frost Venom Dart
+113409:蔚蓝匕首:Azure Dagger
+113410:飞镖弹:Flechette
+113411:乾坤圈:Wind and Fire Wheels
+113412:亡者之符:Death Rune
+113501:妙见神轮:Sudarsana
+113502:满天花雨:Petal Torrent
+113503:黑莲手里剑:Black Lotus Shuriken
+113701:黑莲手里剑 - 绯红:Black Lotus Shuriken - Crimson
+113702:黑莲手里剑 - 晓色:Black Lotus Shuriken - Dawn
+114101:弓:Bow
+114201:木弓:Wooden Bow
+114202:长弓:Longbow
+114203:复合弓:Composite Bow
+114301:重弓:Strong Bow
+114302:松武弓:Stallion Bow
+114303:暗杀特弓:Mighty Bow
+114304:Pellet Bow:Pellet Bow
+114401:片箭:Ancient Bolt
+114402:火矢弓:Scorchbow
+114403:黄金之弓:Golden-Ratio Bow
+114405:双子杀:Twinbow
+114406:哲别之弓:Jebe's Altered Bow
+114407:阿提米丝:Artemis
+114501:元素灵弓:Elemental Bow
+114502:血之刻印:Failnaught
+114503:阿耳古洛托克索斯:Argyrotoxus
+114504:赤弓白矢:Crimson Bow
+114505:猎鹰:Eagle Eye
+114701:血之刻印 - 绯红:Failnaught - Crimson
+114702:血之刻印 - 晓色:Failnaught - Dawn
+115101:短弩:Short Crossbow
+115201:长弩:Long Crossbow
+115202:十字弩:Crossbow
+115301:Power Crossbow:Power Crossbow
+115302:激光弩:Laser Crossbow
+115303:重弩:Heavy Crossbow
+115401:钢弩:Steel Bow
+115402:大将灵魂:The Legend of The General
+115403:诸葛连弩:Ballista
+115404:狙击弩:Sniper Crossbow
+115405:灵光金龟神机弩:The Golden Ghost
+115406:十字毒弩:Poisoned Crossbow
+115501:沙兰加:Sharanga
+115502:血色弦月:Blood Half Moon
+115503:狂澜:Tempest
+115504:幻影之矢:Phantom Bolt
+115701:血色弦月 - 绯红:Blood Half Moon - Crimson
+115702:血色弦月 - 晓色:Blood Half Moon - Dawn
+116101:瓦尔特PPK:Walther PPK
+116201:马格努恩·蟒蛇:Magnum-Python
+116202:伯莱塔M92F:Beretta M92F
+116301:FN57:FN57
+116401:Double Revolver SP:Double Revolver SP
+116402:马格努恩·巨蟒:Magnum-Anaconda
+116403:魔弹射手:Devil's Marksman
+116404:优雅者之枪:Elegance
+116405:电子光束枪:Electron Blaster
+116406:马格农·博亚:Magnum-Boa
+116407:格洛克 48:Glock 48
+116408:德林加手枪:Derringer
+116409:史坦普特:Stampede
+116410:等离子枪:Molten Malachite
+116501:凯尔特:Kelte
+116502:牵牛星:Altair
+116503:正午:High Noon
+116701:正午 - 绯红:High Noon - Crimson
+116702:正午 - 晓色:High Noon - Dawn
+117101:费德洛夫自动步枪:Fedorova
+117201:STG-44:STG-44
+117301:AK-47:AK-47
+117401:M16A1:M16A1
+117402:加特林机枪:Gatling Gun
+117403:95式自动步枪:Type 95
+117404:AK-12:AK-12
+117405:XCR:XCR
+117406:极地加农炮:Judgement
+117407:黄金加特林:Gold Rush
+117501:阿耆尼:Agni
+117502:彼岸花:Black Widow
+117503:地狱之火:Hellfire
+117504:征服者AX:Endeavor AX
+117505:女武神:Valkyrie
+117701:地狱之火 - 绯红:Hellfire - Crimson
+117702:地狱之火 - 晓色:Hellfire - Dawn
+118101:长步枪:Long Rifle
+118201:斯普林菲尔德:Springfield
+118301:鱼叉枪:Harpoon Gun
+118401:黄金步枪:Golden Rifle
+118402:电磁轨道枪:Railgun
+118403:Tac-50:Tac-50
+118404:夜行:Intervention
+118405:NTW-20:NTW-20
+118406:北极星:Polaris
+118407:高斯来福:Gauss Rifle
+118501:四射星光:The Deadly Ray
+118502:霹雳火炮:Blackfire Cannon
+118503:仙女座:Andromeda
+118504:寡妇制造者:Widow Maker
+118505:死亡之眼:Dead Eye
+118701:寡妇制造者 - 绯红:Widow Maker - Crimson
+118702:寡妇制造者 - 晓色:Widow Maker - Dawn
+119101:钢链:Steel Chain
+119201:双棍:Nunchaku
+119301:赌棍:Sharper
+119302:饲养员:Bleeder
+119401:大小盘龙棍:The Smiting Dragon
+119402:超级震动双节棍:Vibro Nunchaku
+119403:刻耳柏洛斯:Cerberus
+119404:Blue 3:Blue 3
+119501:九头蛇:Hydra
+119502:比翼连理:Crimson Red Lovers
+119503:革律翁:Geryon
+119504:霓虹锁链:Neon Chain
+119701:九头蛇 - 绯红:Hydra - Crimson
+119702:九头蛇 - 晓色:Hydra - Dawn
+120101:针:Needle
+120201:刺剑:Fencing Rapier
+120301:春日:Blooming
+120302:正义之剑:Sword of Justice
+120303:穿甲剑:Estoc
+120401:杜伦德尔MK2:Durendal Mk2
+120402:米斯特汀:Mistilteinn
+120403:带电短刀:Volticletto
+120404:陨星重剑:Meteor Claymore
+120405:咎瓦尤斯:Joyeuse
+120406:赤豹:Red Panther
+120407:阿斯卡普里:Esprit
+120501:阿戈斯之眼:Eye of Argos
+120502:诺斯费拉图:Nosferatu
+120701:诺斯费拉图 - 绯红:Nosferatu - Crimson
+120702:诺斯费拉图 - 晓色:Nosferatu - Dawn
+121101:红心:Starter Guitar
+121201:黄金琴桥:Golden Bridge
+121202:单线圈拾音器电吉他:Single Coil Pickup
+121301:红宝石特别版:Ruby Special
+121302:双线圈拾音器电吉他:Humbucker Pickup
+121303:King-V:King-V
+121304:诺卡斯特:Nocaster
+121305:金属复古吉他:Superstrat
+121306:野马:Wild Horse
+121401:波希米亚:Bohemian
+121402:天国的阶梯:Stairway to Heaven
+121403:紫色团雾:Purple Haze
+121404:乐事:Satisfaction
+121405:绝色之夜:Wonderful Tonight
+121406:红砖:The Wall
+121407:少年魂:Teen Spirit
+121501:Cpt. Pepper:Cpt. Pepper
+121502:负心人:Heartbreaker
+121503:天堂之门:Heaven's Door
+121504:自由之翼:Free Bird
+121701:负心人 - 绯红:Heartbreaker - Crimson
+121702:负心人 - 晓色:Heartbreaker - Dawn
+122101:镜头:Lens
+122201:摄影枪:Pistol Camera
+122301:袖珍相机:Compact Camera
+122302:测距仪:Rangefinder
+122303:步枪式相机:Carbine Camera
+122401:复古相机:Mirrorless
+122402:全息瞄准镜:Laser Designator
+122403:高倍望远大炮:Cannon Camera
+122404:V.I.C.G:V.I.C.G
+122405:拍立得:Instant Camera
+122501:超感相机:Ultraviolet
+122502:灵视相机:Vision Flex
+122503:On Air:On Air
+122504:三重聚焦相机:Triple Focus
+122701:灵视相机 - 绯红:Vision Flex - Crimson
+122702:灵视相机 - 晓色:Vision Flex - Dawn
+130101:琉璃球:Glass Bead
+130201:镜面球:Mirror Core
+130202:冰晶球:Frigid Pearl
+130301:意志权杖:Staff of Reliance
+130302:圣杯 - 感情:Sensibility
+130303:理性之刃:Frigid Pearl Blade
+130304:五芒星碎片:Possession Pentacle
+130401:隐遁者:The Hermit
+130402:命运之轮:The Hierophant
+130403:圣杯 - 节制:Temperance
+130404:五芒星:The Star
+130405:月水晶:The Moon
+130501:女帝:The Empress
+130502:炼狱:The Death
+130503:烈阳:The Sun
+130701:炼狱 - 绯红:The Death - Crimson
+130702:炼狱 - 晓色:The Death - Dawn
+131101:卡德摩斯的召唤Lv2:Call of Cadmus Lv2
+131102:卡德摩斯的召唤Lv3:Call of Cadmus Lv3
+131201:毒蛇:Viper
+131301:南棘蛇:Deathadder
+131302:黑曼巴蛇:Black Mamba
+131303:响尾蛇:Sidewinder
+131401:女王蛇:Deathadder Queen
+131402:帝王黑曼巴蛇:Black Mamba King
+131403:超级响尾蛇:Alpha Sidewinder
+131501:女王蛇 MT:Deathadder Queen MT
+131502:女王蛇 FC:Deathadder Queen FC
+131503:女王蛇 VBS:Deathadder Queen VBS
+131504:帝王黑曼巴蛇 TL:Black Mamba King TL
+131505:帝王黑曼巴蛇 FC:Black Mamba King FC
+131506:帝王黑曼巴蛇 VBS:Black Mamba King VBS
+131507:超级响尾蛇 ML:Alpha Sidewinder ML
+131508:超级响尾蛇 FC:Alpha Sidewinder FC
+131509:超级响尾蛇 VBS:Alpha Sidewinder VBS
+201101:发箍:Hairband
+201102:鸭舌帽:Hat
+201104:自行车头盔:Bike Helmet
+201111:大自然的呼唤 Lv2:Nature's Call Lv 2
+201112:大自然的呼唤 Lv3:Nature's Call Lv 3
+201201:面具:Mask
+201202:头环:Circlet
+201203:贝雷帽:Beret
+201204:锁甲头罩:Chain Coif
+201205:安全帽:Safety Helmet
+201206:初放的花蕾:Crown of Buds
+201301:防弹头盔:Ballistic Helmet
+201302:消防头盔:Fire Helmet
+201303:头冠:Tiara
+201304:罗宾帽:Virtuous Outlaw
+201305:清新的花瓣:Garland of Petals
+201401:王冠:Crown
+201402:闭式头盔:Close Helm
+201403:秘银头盔:Mythril Helm
+201404:水晶冠:Crystal Tiara
+201405:摩托车头盔:Motorcycle Helmet
+201406:OPS战术头盔:Tactical OPS Helmet
+201407:方旗骑士盔:Helm of Banneret
+201408:月桂冠:Laurel Wreath
+201409:帝国皇冠:Imperial Crown
+201410:帝国战盔:Imperial Burgonet
+201411:脸谱:Chinese Opera Mask
+201412:庞克头盔:Mohawk Headgear
+201413:战队头盔:Vigilante
+201414:宝石头冠:Diadem
+201415:圣骑士头盔:Crusader Helmet
+201416:盛开的旋律:Harmony in Full Bloom
+201417:牛仔帽:Cowboy Hat
+201418:等离子头盔:Plasma Helmet
+201419:熔火面甲:Welding Helmet
+201420:魔女帽:White Witch Hat
+201421:狐狸假面:Fox Mask
+201501:天使光环:Elysian Halo
+201502:圣光冠冕:Fallen Pegasus
+201503:幽灵面具:Persona
+201504:先知头巾:Sultan's Turban
+201505:赛车头盔:Racing Helmet
+201506:荒野之星:The Star of the Wilds
+201507:太空头盔:Astronaut's Helmet
+201508:矮人头盔:Dwarf's Helmet
+201509:暮光头饰:Twilight
+201516:天籁花冠:Celestial Echo
+201517:天籁花冠:Celestial Echo
+201518:夜视头盔:GPNVG
+201519:瘟疫使者:The Black Death
+201520:赛博追踪者:Cyberstalker
+201521:爆破者头盔:Blaster Helmet
+201522:指挥官:Commander Headset
+201523:火花护盾:Blue Flames
+201524:魔兔帽:Bunny Hat
+201525:雷加图斯:Legatus
+201526:En Garde:Fencing Mask
+201527:玄见:Smart Glasses
+201528:瓦尔哈拉头盔:Viking Helmet
+201529:玄瞳头盔:Eyeshield
+201530:戴维德耳机:David Headphones
+201701:血色王冠:Blood Crown
+202101:防风衣:Windbreaker
+202103:袈裟:Monk's Robe
+202104:白大褂:Doctor's Gown
+202105:全覆盖式泳衣:Wetsuit
+202106:白衬衫:Shirt
+202201:皮甲:Leather Armor
+202202:皮夹克:Leather Jacket
+202203:Turtle Dobok:Turtle Dobok
+202205:军装:Military Suit
+202206:补丁长袍:Patched Robe
+202207:连衣裙:Dress
+202209:比基尼:Bikini
+202210:潜水服:Diving Suit
+202211:祭师法衣:Deacon Robes
+202301:骑士夹克:Rider Jacket
+202302:锁甲:Chain Armor
+202303:西装:Suit
+202304:旗袍:Qipao
+202305:金属板甲:Sheet Metal Armor
+202306:韩服:Hanbok
+202307:主教长袍:Cardinal Robes
+202401:防弹背心:Bulletproof Vest
+202402:余晖之铠:Sunset Armor
+202404:御史衣:Covert Agent Uniform
+202405:光学迷彩服:Optical Camouflage Suit
+202406:摇滚乐手夹克:Rocker's Jacket
+202407:秘银链甲:Mythril Armor
+202408:十字军铠甲:Crusader Armor
+202410:亚马逊战甲:Amazoness Armor
+202411:龙之道服:Dragon Dobok
+202412:指挥官战甲:Commander's Armor
+202413:管家服:Butler's Suit
+202415:骑士战甲:Battle Suit
+202416:星火洋装:Blazing Dress
+202417:EOD防爆服:EOD Suit
+202418:无尾礼服:Tuxedo
+202419:大祭司长袍:High Priest Robes
+202420:太使袍:Changpao
+202421:秘银吊带:Mythril Crop
+202422:防火服:Turnout Coat
+202501:日轮之铠:Kabana
+202502:红心女王:Queen of Hearts
+202503:神职法衣:Holy Orders
+202504:酒红色西装:Burgundy 47
+202505:奥黛:Áo Dài
+202506:幽灵战衣:Phantom Jacket
+202507:监管者套装:Guardian Suit
+202508:优雅礼服:Elegant Gown
+202509:仙女服:Beautiful Garment
+202510:魅影:Specter
+202511:血色斗篷:Blood Cloak
+202512:缄默法则:Omertà
+202513:摇滚外套:Shooting Star Jacket
+202514:私人定制:Couturier
+202515:战术重甲:Tactical Armor
+202516:精灵舞裙:Elf Dress
+202517:泰坦盔甲:Titan Armor
+202518:幽冥战甲:The Revenant
+202521:赛车服:Racing Suit
+202522:幽灵新娘的嫁纱:Ghost Bride's Dress
+202523:吉利服:Ghillie Suit
+202524:幽灵夹克:Spectral Jacket
+202525:贤者之袍:Wisdom Robes
+202526:异端审判官:Inquisitor
+202527:黑炎龙铠甲:Black Flame Dragon
+202601:骑士战甲・戴维德:David: Battle Suit
+202602:秘银链甲・戴维德:David: Mythril Armor
+202603:星火洋装・戴维德:David: Blazing Dress
+202604:秘銀吊带・戴维德:David: Mythril Crop
+202605:日轮之铠・戴维德:David: Kabana
+202606:神职法衣・戴维德:David: Holy Orders
+202607:奥黛・戴维德:David: Áo Dài
+202608:幽灵战衣・戴维德:David: Phantom Jacket
+202609:监管者套装・戴维德:David: Guardian Suit
+202610:优雅礼服・戴维德:David: Elegant Gown
+202611:仙女服・戴维德:David: Beautiful Garment
+202612:魅影・戴维德:David: Specter
+202613:血色斗篷・戴维德:David: Blood Cloak
+202614:缄默法则・戴维德:David: Omertà
+202615:摇滚外套・戴维德:David: Shooting Star Jacket
+202616:高级定制・戴维德:David: Couturier
+202617:战术重甲・戴维德:David: Tactical Armor
+202618:精灵舞裙・戴维德:David: Elf Dress
+202619:泰坦盔甲・戴维德:David: Titan Armor
+202620:吉利服・戴维德:David: Ghillie Suit
+202621:幽灵夹克・戴维德:David: Spectral Jacket
+202622:贤者之袍・戴维德:David: Wisdom Robes
+202623:比基尼・戴维德:David: Bikini
+202624:酒红色西装・戴维德:David: Burgundy 47
+202625:红心女王・戴维德:David: Queen of Hearts
+202626:赛车服・戴维德:David: Racing Suit
+202627:幽灵新娘的嫁纱・戴维德:David: Ghost Bride's Dress
+202628:幽冥战甲・戴维德:David: The Revenant
+202629:异端审判官・戴维德:David: Inquisitor
+202630::
+203101:手表:Watch
+203102:绷带:Bandage
+203104:手镯:Bracelet
+203201:皮盾:Leather Shield
+203202:队长臂章:Squad Leader Armband
+203203:弓护腕:Bracer
+203204:破碎的手表:Broken Watch
+203301:刀鞘:Sheath
+203302:金色手镯:Golden Bracelet
+203303:护臂:Bazuband
+203304:红宝石手链:Crimson Bracelet
+203305:荆棘手环:Barbed Blossom
+203306:巨人手套:Corrupting Touch
+203401:钢制手盾:Steel Shield
+203402:阻刃护臂:Sword Stopper
+203403:德罗普尼尔:Draupnir
+203404:秘银盾:Mythril Shield
+203405:生命讯号感测器:Vital Sign Sensor
+203406:骑士信条:Creed of the Knight
+203407:沙·贾汗之剑:Sheath of Shah Jahan
+203408:召唤手表:Cube Watch
+203409:宙斯盾:Burnished Aegis
+203410:廷达罗斯手环:Tindalos Band
+203411:南丁格尔:Nightingale
+203412:等离子电盾:Plasma Arc
+203413:银河腕表:Tellurian Timepiece
+203414:智能手环:Smart Band
+203415:星魂臂章:Minuteman Armband
+203501:斯嘉蒂的手镯:Bracelet of Skadi
+203502:雷达:Radar
+203503:自动臂:Auto-arms
+203504:日珥:Prominence
+203505:蜈蚣护肩:Centipede's Pauldron
+203506:运动手表:Sports Watch
+203507:廷达罗斯君主:Tindalos Monarch
+203508:查理曼大盾:Shield of Kings
+203509:血杀龙爪:Bloodripper
+203510:龙鳞:Dragon Scale
+203511:荆刺护手:Chain of Thorns
+203512:鬼灵之爪:Nightmare Nails
+203513:赫利克斯:Helix
+203514:蓝纹臂章:Mythril Armband
+203515:超星臂章:Nova Shield
+204101:拖鞋:Slippers
+204102:跑鞋:Running Shoes
+204103:裤袜:Tights
+204201:护膝:Knee Pads
+204202:护腿链甲:Chain Leggings
+204203:高跟鞋:High Heels
+204204:暴走鞋:Heelys
+204205:木鞋:Clogs
+204301:补丁拖鞋:Repaired Slippers
+204302:靴子:Boots
+204303:登山鞋:Hiking Boots
+204304:冰爪鞋:Glacier Crampons
+204401:钢护膝:Steel Knee Pads
+204402:羽靴:Feather Boots
+204403:马弗里克之履:Maverick Runner
+204404:军靴:Combat Boots
+204405:恨天高:Killer Heels
+204406:风火轮:Straitjacket Sneakers
+204407:秘银靴:Mythril Boots
+204408:布西发拉斯:Bucephalus
+204409:EOD防爆靴:EOD Boots
+204410:万年冰鞋:Glacial Shoes
+204411:白犀牛靴子:White Rhinos
+204412:超光速次元钢靴:Tachyon Brace
+204413:生化推进器:Taproot
+204414:剑齿虎:Iron Maiden
+204415:SCV:SCV
+204416:星河穿梭者:Stellar Steps
+204417:牛仔靴:Cowboy Boots
+204418:角斗士:Gladiator
+204419:赤影:Delta Red
+204501:赫尔墨斯之靴:Boots of Hermes
+204502:红鞋:Red Shoes
+204503:刀片靴:Blade Boots
+204504:亚历山大:Alexander
+204505:锋利长靴:Legs of Steel
+204506:荒野行者:Wild Walkers
+204507:银河战靴:Galaxy Steps
+204508:幻影行者:Mirage Lace-Ups
+204509:赛车靴:Racing Boots
+204510:艾尔迪安长靴:Eldian Boots
+204511:蔷薇轻履:Rose Steps
+205101:羽毛:Feather
+205102:花朵:Flower
+205103:缎带:Ribbon
+205105:Fan:Fan
+205106:佛经:Buddhist Scripture
+205107:纸箱:Box
+205108:圣杯:Holy Grail
+205109:十字架:Cross
+205110:望远镜:Binoculars
+205201:White Crane Fan:White Crane Fan
+205202:圣者的遗物:Saint's Relic
+205203:命运之花:Flower of Fate
+205204:玻璃渣:Glass Pieces
+205205:Doll:Doll
+205206:狙击镜:Sniper Scope
+205207:佛陀舍利:Buddha Sarira
+205208:箭筒:Quiver
+205209:鸡毛掸子:Feather Duster
+205210:Gilded Quill Fan:Gilded Quill Fan
+205211:琵琶短剑:Shaman's Bronze
+205212:Decorative Flintlock:Decorative Flintlock
+205213:射击教本:Marksman Handbook
+205302:Uchiwa:Uchiwa
+205303:Magazine:Magazine
+205304:骑兵箭筒:Laced Quiver
+205305:Revenge of Goujian:Revenge of Goujian
+205306:Buccaneer Doubloon:Buccaneer Doubloon
+205307:Hawkeye:Hawkeye
+205308:Jolly Roger:Jolly Roger
+205309:音乐盒:Music Box
+205310:Active Camouflage:Active Camouflage
+205311:Grimoire:Grimoire
+205312:埃忒耳之羽毛:Aether Fringe
+205313:Pile Bunker:Pile Bunker
+205401:皎月吊坠:Moonlight Pendant
+205402:万年冰:Glacial Ice
+205403:三昧真火:True Samadhi Fire
+205404:薛定谔的箱子:Schrödinger's Box
+205405:真我之光:Veritas Lux Mea
+205406:邀明月:Lunar Embrace
+205407:秘银箭筒:Mythril Quiver
+205408:苏丹箭筒:Sultan Adorned
+205409:Sultan Adorned Mk2:Sultan Adorned Mk2
+205501:命运之骰:Dice of Destiny
+205502:Sanguine Gunbai:Sanguine Gunbai
+205503:Kundala:Kundala
+205504:Totem:Totem
+205505:荷鲁斯之眼:Eye of Horus
+205506:Kundala Mk2:Kundala Mk2
+205507:死灵之书:Necronomicon
+205508:翡翠石板:Emerald Tablet
+205601:魔法神灯:Magic Lamp
+205602:Star Fragment:Star Fragment
+205603:The Dragon's Fury:The Dragon's Fury
+301102:土豆:Potato
+301104:鳕鱼:Cod
+301105:Lemon:Lemon
+301106:大蒜:Garlic
+301109:Carp:Carp
+301110:面包:Bread
+301111:肉:Meat
+301112:Egg:Egg
+301113:拉面:Ramen
+301116:野山参:Oriental Herb
+301119:巧克力:Chocolate
+301121:洋菇:Edible Mushroom
+301201:Honey Cod Steak:Honey Cod Steak
+301204:Canned Cod Liver:Canned Cod Liver
+301205:Garlic Bread:Garlic Bread
+301206:黄油:Butter
+301209:Carp Bread:Carp Bread
+301213:Disinfectant:Disinfectant
+301216:Choco Pie:Choco Pie
+301218:良药:Orchid
+301222:天多利烤鸡:Tandoori Chicken
+301224:大蒜培根:Bacon and Garlic Sticks
+301225:Bun:Bun
+301226:汉堡:Hamburger
+301229:Fish Fillet With Egg:Fish Fillet With Egg
+301230:Citrus Cake:Citrus Cake
+301232:Honey Garlic:Honey Garlic
+301234:Egg Bun:Egg Bun
+301237:巧克力冰淇淋:Choco Ice Cream
+301239:流泪面包:Bread in Tears
+301243:半熟牛排:Undercooked Steak
+301244:半熟烤鱼:Undercooked Chilean Sea Bass
+301245:半熟烤土豆:Undercooked Potato
+301301:Spicy Fish Stew:Spicy Fish Stew
+301302:炸薯条:French Fries
+301303:Baked Potato:Baked Potato
+301304:Baked Carp:Baked Carp
+301305:圣水:Holy Water
+301306:Grilled Chilean Sea Bass:Grilled Chilean Sea Bass
+301307:Hot Ramen:Hot Ramen
+301308:咖啡面包:Mocha Bread
+301309:炒蛋:Scrambled Egg
+301311:巧克力饼干:Chocolate Chip Cookies
+301312:Choco Pie Box:Choco Pie Box
+301314:热腾腾的汤药:Warm Oriental Concoction
+301315:蜂蜜黄油:Honey Butter
+301316:炸鸡:Fried Chicken
+301317:治疗药剂:Healing Potion
+301318:Hard Boiled Egg:Hard Boiled Egg
+301319:酒酿饼:Rum Raisin Bread
+301323:Steak:Steak
+301324:急救箱:First Aid Kit
+301325:黄油烤土豆:Butter-Fried Potatoes
+301326:炸鱼排:Fish Cutlet
+301327:炒面:Stir Fried Ramen
+301328:冷面:Cold Noodles
+301329:大还丹:Zen Vitality
+301330:Birthday Cake:Birthday Cake
+301331:Garlic Ramen:Garlic Ramen
+301333:Snowflake:Snowflake
+301337:热腾腾的吐司:Breakfast Toast
+301338:巧克力酱:Choco Spread
+301339:烤大蒜:Roasted Garlic
+301340:培根吐司:Breakfast Sandwich
+301346:铁板牛排:Sizzling Steak
+301348:一周年纪念蛋糕:1st Anniversary Cake
+301349:烤蘑菇串:Grilled Mushroom Skewers
+301401:炸鱼薯条:Fish And Chips
+301403:11号套餐:#11 Combo Meal
+301405:三文鱼:Salmon
+301406:黄金地瓜:Yellow Sweet Potato
+301407:冷冻披萨:Frozen Pizza
+301408:薄荷巧克力:Mint Choco Ice Cream
+301409:松露:Truffle
+301501:三文鱼排:Salmon Steak
+301502:夏威夷披萨:Hawaiian Pizza
+301503:烤地瓜:Sweet Potato
+301504:松露意面:Truffle Pasta
+301598:黄金脆皮炸鸡:CCC Chicken
+301599::
+301601:百年老汤:100-Year-Old Stew
+301602:万年汤:Perpetual Stew
+302101:蜂蜜:Honey
+302102:水:Water
+302103:冰块:Ice
+302104:威士忌:Whiskey
+302106:Coffee:Coffee
+302107:碳酸饮料:Carbonated Water
+302108:牛奶:Milk
+302201:沸水:Boiling Water
+302202:Lemonade:Lemonade
+302203:Water Bottle:Water Bottle
+302204:Baijiu:Baijiu
+302205:Soju:Soju
+302206:Iced Coffee:Iced Coffee
+302207:Cocktail:Cocktail
+302208:Coffee Liqueur:Coffee Liqueur
+302209:可乐:Cola
+302210:Latte:Latte
+302211:蜂蜜牛奶:Honey Milk
+302213:高杯酒:Highball
+302214:巧克力牛奶:Chocolate Milk
+302215:蜂蜜水:Honey Water
+302216:冰水:Ice Water
+302217:威士忌加冰:On The Rocks
+302218:牛仔鸡尾酒:Cowboy
+302219:天然苏打水:Natural Sparkling Water
+302220:米兹瓦里:Mizuwari
+302221:蜂蜜威士忌:Honey Whiskey
+302222:冰沙:Slushy
+302223:清凉苏打水:Ice Sparkling Water
+302301:高粱酒:Kaoliang Liquor
+302302:蜂蜜热饮:Hot Honey Water
+302303:桂花酿:Flower Liquor
+302304:Americano:Americano
+302305:药酒:Herbal Liquor
+302307:威士忌旋塞:Whiskey Cocktail
+302308:纯净水:Purified Water
+302309:Can of Cola:Can of Cola
+302310:热可可:Hot Chocolate
+302311:White Russian:White Russian
+302312:塞勒涅之泪:Tear of Selene
+302314:热托迪:Hot Toddy
+302315:热碳酸水:Hot Sparkling Water
+302316:热牛奶:Steamed Milk
+303501:悬赏金:Reward
+303502:荣誉值+:Credits+
+303503:荣誉值++:Credits++
+303504:荣誉值:Credits
+303505:荣誉值:Credits
+303506:荣誉值:Credits
+303507:荣誉值:Credits
+303508:荣誉值:Credits
+303509:荣誉值:Credits
+401101:钉子:Nail
+401103:皮革:Leather
+401104:龟壳:Turtle Shell
+401105:胶带:Rubber
+401106:废铁:Scrap Metal
+401107:打火机:Lighter
+401108:激光笔:Laser Pointer
+401109:五马牌:Stallion Medal
+401110:电池:Battery
+401111:Alcohol:Alcohol
+401112:油:Oil
+401113:布料:Cloth
+401114:原石:Gemstone
+401116:胶水:Glue
+401117:纸:Paper
+401118:Iron Ore:Iron Ore
+401120:Can:Can
+401121:火药:Gunpowder
+401123:化学品:Chemicals
+401124:石墨:Graphite
+401201:Steel:Steel
+401202:油布:Oilcloth
+401203:Heated Oil:Heated Oil
+401206:粉笔灰:Chalk Powder
+401208:生命树枝:Tree of Life
+401209:陨石:Meteorite
+401210:灰烬:Ash
+401211:电子元件:Electronic Parts
+401212:蓝图:Blueprint
+401213:铁板:Iron Sheet
+401214:黄金:Gold
+401215:火烤石:Heated Stone
+401216:铁丝:Barbed Wire
+401217:红宝石:Ruby
+401218:精装:Hardcover
+401219:钻石:Diamond
+401301:靛青月石:Moonstone
+401302:毒药:Poison
+401303:马达:Motor
+401304:秘银:Mythril
+401305:玻璃面板:Glass Panel
+401306:电解电池:Ion Battery
+401307:皮革补丁:Patched Leather
+401401:VF 血液样本:VF Blood Sample
+401402:进化石:Gem of Evolution
+401403:能源晶石:Force Core
+401405:绯红碎片:Crimson Shard
+401406:晓色碎片:Dawnlight Shard
+409401:再生手环:Regeneration Cuff
+409402:系统密码:System Shutdown Code
+409403:逃生手环:Rootkit
+409404::
+501101:{0}的再生手环:Low Battery Laptop
+501401:Cell Phone:Cell Phone
+502101:监视器:Surveillance Camera
+502102:套索:Snare
+502103:捕鼠夹:Mousetrap
+502104:钢琴线:Piano Wire
+502105:简易篝火:Portable Campfire Kit
+502201:Spiked Plank:Spiked Plank
+502202:改良型捕鼠夹:Enhanced Mousetrap
+502203:炸药:Dynamite
+502204:竹枪陷阱:Bamboo Trap
+502205:Booby Trap:Booby Trap
+502206:Clang Clatter:Clang Clatter
+502207:望远监视器:Telephoto Camera
+502208:无人探测仪:Recon Drone
+502209:潜行相机:Trail Camera
+502210:篝火:Campfire
+502211:Telephoto Camera:Telephoto Camera
+502212:望远监视器:Telephoto Camera
+502303:Jungle Guillotine:Jungle Guillotine
+502304:Mine:Mine
+502305:Pendulum Axe:Pendulum Axe
+502306:Explosive Trap:Explosive Trap
+502307:RDX:RDX
+502308:EMP探测仪:EMP Drone
+502310:指压板陷阱:Acupressure Mat
+502401:Mythril String:Mythril String
+502402:Stingburst:Stingburst
+502403:Fire Trap:Fire Trap
+502404:C4:C-4
+502405:双刀断头台:Double Guillotine
+502406:阔刀地雷:Claymore
+502407:Hidden Maiden:Hidden Maiden
+502501:遥控地雷:Remote Mine
+502502:Smart Bomb:Smart Bomb
+503101:Kiosk呼叫机:Kiosk Remote
+503102:信号枪B:Flare Gun B
+503103:信号枪R:Flare Gun R
+503104:便携VLS:Mobile VLS
+503105:密钥卡:Loop Card Key
+503106:密钥卡 - γ:Loop Card Key - γ
+503107:密钥卡 - RED:Loop Card Key - Red
+503108:猎人汤锅:Hunter's Pot
+504401:旋棍补给箱:Tonfa Supply Box
+504402:双手剑补给箱:Two-handed Sword Supply Box
+504403:暗器补给箱:Shuriken Supply Box
+504404:手枪补给箱:Pistol Supply Box
+504601:便携生成器・胸部装备:Portable Crafter - Chest
+504602:便携生成器・头部装备:Portable Crafter - Head
+504603:便携生成器・手臂/装饰装备:Portable Crafter - Arm/Acc
+504604:便携生成器・腿部装备:Portable Crafter - Leg
+540001:高级订制:Haute Couture
+601501:女王蛇 MT:Deathadder Queen MT
+601502:女王蛇 FC:Deathadder Queen FC
+601503:女王蛇 VBS:Deathadder Queen VBS
+601504:帝王黑曼巴蛇 TL:Black Mamba King TL
+601505:帝王黑曼巴蛇 FC:Black Mamba King FC
+601506:帝王黑曼巴蛇 VBS:Black Mamba King VBS
+601507:超级响尾蛇 ML:Alpha Sidewinder ML
+601508:超级响尾蛇 FC:Alpha Sidewinder FC
+601509:超级响尾蛇 VBS:Alpha Sidewinder VBS
+602409:破灭之枝 Mk2:Laevateinn Mk2
+607406:火尖枪 Mk2:Blazing Lance Mk2
+610501:朱雀之纹 Mk2:Mark of the Phoenix Mk2
+701451:战术面罩:Tactical Visor
+702503:Holy Orders Mk2:Holy Orders Mk2
+702601:异端审判官:Inquisitor
+705502:Sanguine Gunbai Mk2:Sanguine Gunbai Mk2
+705504:Totem Mk2:Totem Mk2
+705601:微型太阳系统:Solar System Miniature
+705602:Cobalt Blue:Cobalt Blue
+705603:燃烧之心:Burning Heart
+705604:克拉达戒指:Claddagh Ring
+705605:Mercury:Mercury
+705606:Arc Reactor:Arc Reactor
+705607:图腾:Smash Totem
+705608:守护之眼:Pharaoh's Artifact
+705609:Psyche's Blade:Psyche's Blade
+705610:Hero's Record:Hero's Record
+705611:E.M.O.T.E:E.M.O.T.E
+705612:Claddagh Ring Mk2:Claddagh Ring Mk2
+705613:Arc Reactor Mk2:Arc Reactor Mk2
+705614:普赛克之刃:Psyche's Blade
+705615:Hero's Record Mk2:Hero's Record Mk2
+705617:Lunar Embrace Mk2:Lunar Embrace Mk2
+705618:Magic Lamp:Magic Lamp
+705619:Star Fragment:Star Fragment
+705620:龙首簪:The Dragon’s Fury
+705621:Flower Mk2:Flower Mk2
+802601:等离子血清:Combat Epinephrine
+999999:战术强化组件:Tac. Skill Module
