@@ -1,12 +1,12 @@
 Jackie:杰琪
 Aya:阿雅
 Fiora:菲欧娜:剑姬
-Magnus:马格努斯
-Zahir:扎希尔
+Magnus:马格努斯:马哥
+Zahir:扎希尔:三哥:轮子:阿三
 Nadine:娜町
 Hyunwoo:玄佑:红毛:野猪
 Hart:哈特
-Isol:埃索
+Isol:埃索:老鼠
 LiDailin:李黛琳:酒妹
 Yuki:雪:大佐:佐藤雪
 Hyejin:慧珍
@@ -17,8 +17,8 @@ Silvia:西尔维娅
 Adriana:阿德瑞娜:火女
 Shoichi:彰一:蟑螂:蟑一
 Emma:艾玛:兔子
-Lenox:伦诺克斯
-Rozzi:洛兹
+Lenox:伦诺克斯:钓鱼姐
+Rozzi:洛兹:骡子
 Luke:卢克:神秘扫把男:扫把男
 Cathy:凯希:医生
 Adela:阿德拉:下棋
@@ -32,7 +32,7 @@ Rio:莉央
 William:威廉:棒球
 Nicky:妮琪
 Nathapon:纳塔朋:相机哥
-Jan:扬:擂台狗:擂台犬
+Jan:扬:擂台狗:擂台犬:尼哥:倪哥
 Eva:伊娃
 Daniel:丹尼尔:托尼
 Jenny:珍妮
@@ -49,7 +49,7 @@ Tia:蒂娅:松鼠
 Felix:费利克斯:赵云
 Elena:埃琳娜:冰女
 Priya:普里亚
-Adina:阿迪娜:占星
+Adina:阿迪娜:占星:占星狗:Explosion:exp
 Markus:马库斯
 Karla:卡拉
 Estelle:艾丝蒂尔:消防员
