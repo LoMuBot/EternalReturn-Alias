@@ -8,11 +8,11 @@ Hyunwoo:玄佑:红毛:野猪:男主:野猪动物
 Hart:哈特
 Isol:埃索:老鼠:老鼠人:小男孩
 LiDailin:李黛琳:酒妹:利黛琳
-Yuki:雪:大佐:佐藤雪:肘疼穴
-Hyejin:慧珍:巫女
+Yuki:雪:大佐:佐藤雪:肘疼穴:中华第一剑
+Hyejin:慧珍:巫女:紫内裤
 Xiukai:修凯:厨子:左修凯:胖子:厨师:润人
 Chiara:奇娅拉:修女:破鞋
-Sissela:希瑟拉:病女
+Sissela:希瑟拉:病女:小威:威尔逊
 Silvia:西尔维娅:NVIDIA:机车
 Adriana:阿德瑞娜:火女
 Shoichi:彰一:蟑螂:蟑一:东彰一:幽默飞刀人:幽默小刀人
@@ -25,11 +25,11 @@ Adela:阿德拉:下棋
 Bernice:伯尼斯:男枪:男猎:夹子人
 Barbara:芭芭拉
 Alex:亚历克斯:特工
-Sua:秀雅:阿姨
+Sua:秀雅:阿姨:大雷
 Leon:里昂:潜水狗:鱼雷:二等兵
 Eleven:Eleven:11:夏子萱:汉堡:小11:富婆:永雏塔菲
-Rio:莉央:jk:白毛:白毛jk:爱猫人士:南莉央
-William:威廉:棒球
+Rio:莉央:jk:白毛:白毛jk:爱猫人士:南莉央:哈吉央
+William:威廉:棒球:棒球男
 Nicky:妮琪:女拳
 Nathapon:纳塔朋:相机哥:男摄
 Jan:扬:擂台狗:擂台犬:尼哥:倪哥
@@ -40,7 +40,7 @@ Camilo:卡米洛:卡狗:跳舞
 Chloe:克洛伊:人偶:小木羊:mmxy
 Johann:约翰:神父:jxd
 Bianca:比安卡:吸血鬼:变卡:中二病
-Celine:席琳:C0:徐悲宏
+Celine:席琳:C0:徐悲宏:c0
 Echion:厄喀翁:蛇
 Mai:梅:裁缝:小梅
 Aiden:艾登
@@ -68,7 +68,7 @@ Abigail:艾比盖尔:女同:艾比:矮比
 Alonso:阿隆索:冠军阿隆索
 Leni:雷妮:雌小鬼
 Tsubame:燕翼:女忍者:女忍:糍粑妹:橘燕翼
-Kenneth:肯尼思:肯尼迪:小马:火斧:小肯
+Kenneth:肯尼思:肯尼迪:小马:火斧:小肯:火库斯
 Katja:卡缇娅:猫头鹰:卡蛆
 Charlotte:夏洛特:轮椅:婊子:圣女:子兰cc
 Darko:达尔科:高利贷:讨债
